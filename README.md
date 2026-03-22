@@ -1,12 +1,12 @@
 sales_sql_project
-comprehensive e-commerce sales database management and analysis using SQL schemas and queries.
+comprehensive books sales database management and analysis using SQL schemas and queries.
 
 📊 Sales SQL Analysis
 📌 Project Overview
-This project explores a Sales dataset to extract actionable business insights. I focused on customer segmentation, revenue trends, and product performance.
+This project explores a Sales dataset to extract actionable business insights. I focused on customer segmentation, revenue trends, and craze.
 
 🏗️ Data Architecture (The Schema)
-I built a normalized database consisting of two primary tables. This structure ensures data integrity and mimics real-world backend systems
+I built a normalized database consisting of three primary tables. This structure ensures data integrity and mimics real-world backend systems
 
 The goal was to transition from raw data creation to high-level business intelligence reporting using MySQL.
 
