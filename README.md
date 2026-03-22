@@ -1,4 +1,4 @@
-sales_sql_project
+BOOKS_sales_sql_project
 comprehensive books sales database management and analysis using SQL schemas and queries.
 
 📊 Sales SQL Analysis
